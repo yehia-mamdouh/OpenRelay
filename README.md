@@ -1,8 +1,7 @@
 # WebyCrack
-Script to Crack Weak Web Authentication using Dictionary 
+Script to Crack Weak Web Authentication using Dictionary Python script that can brute force web applications login pages using Dictionary. It also print any available Session_Id, and User_Tokens. 
 
-Python script that can brute force web applications login pages using Dicionary. It also print any avilable Session_Id,
-and User_Tokkens. The script is support Python(3)
+The script is support Python3
 
 Example:
 
